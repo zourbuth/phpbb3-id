@@ -1,0 +1,20 @@
+Subject: phpBB terinstal
+
+Selamat,
+
+Anda telah berhasil menginstal phpBB di server anda.
+
+E-mail ini mengandung informasi yang penting pada instalasi anda yang harus dijaga. Kata sandi ini telah dienkripsi dan tidak bisa didapatkan kembali, akan tetapi anda bisa meminta kata sandi yang baru jika kata sandi tersebut hilang.
+
+----------------------------
+Nama Pengguna: {USERNAME}
+Kata Sandi: {PASSWORD}
+
+URL Halaman: {U_BOARD}
+----------------------------
+
+Informasi yang berguna pada instalasi phpBB anda dapat ditemukan di folder docs dan di phpBB.com's support page - http://www.phpbb.com/support/
+
+Untuk menjaga kerahasiaan dan keamanan, sangat disarankan supaya anda tetap terkini dengan software keluaran terbaru yang dapat dengan mudah dilakukan dengan berlangganan ke phpBB.com's mailing list, yang dialamatkan di atas.
+
+{EMAIL_SIG}

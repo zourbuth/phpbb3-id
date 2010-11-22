@@ -1,0 +1,8 @@
+Subject: Laporan dihapus - "{PM_SUBJECT}"
+
+Hallo {USERNAME},
+
+ anda menerima notifikasi ni karena laporan yang anda ajukan mengenai pesan pribadi "{PM_SUBJECT}" di "{SITENAME}" sudah dihapus oleh moderator atau administrator.
+
+
+{EMAIL_SIG}

@@ -1,0 +1,11 @@
+Subject: Anda telah dimasukkan ke grup pengguna 
+
+Selamat,
+
+Anda telah dimasukkan ke grup pengguna "{GROUP_NAME}" di "{SITENAME}".
+Hal tersebut dilakukan oleh pemimpin grup atau administrator, silahkan hubungi mereka untuk informasi lebih lanjut.
+
+Anda dapat melihat informasi mengenai grup-grup anda di sini::
+{U_GROUP}
+
+{EMAIL_SIG}

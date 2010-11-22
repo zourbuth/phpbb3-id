@@ -1,0 +1,9 @@
+Subject: Pengaktifan kembali account anda
+
+Hallo {USERNAME},
+
+Account anda di "{SITENAME}" telah dinonaktifkan, kemungkinan dikarenakan oleh perubahan yang dibuat pada profil anda. Untuk mengaktifkan account anda kembali, anda harus mengklik link dibawah ini:
+
+{U_ACTIVATE}
+
+{EMAIL_SIG}
