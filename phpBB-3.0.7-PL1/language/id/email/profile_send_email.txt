@@ -1,0 +1,13 @@
+
+Hallo {TO_USERNAME},
+
+Berikut ini adalah e-mail yang dikirimkan kepada anda oleh {FROM_USERNAME} melalui account anda di "{SITENAME}". Jika pesan ini dianggap sebagai spam, mengandung penghinaan ataupun komentar lain yang anda temukan sebagai penyerangan, silahkan hubungi webmaster dengan alamat berikut ini:
+
+{BOARD_CONTACT}
+
+Mengikutsertakan keseluruhan e-mail (terutama sekali judulnya). Harap dicatat bahwa alamat balasan telah diatur sedemikian rupa dari {FROM_USERNAME}.
+
+Pesan dikirim kepada anda sebagai berikut:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{MESSAGE}
