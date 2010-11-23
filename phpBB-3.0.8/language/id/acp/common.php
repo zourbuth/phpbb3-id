@@ -190,7 +190,7 @@ $lang = array_merge($lang, array(
 	'ACP_USER_SIG'					=> 'Tanda tangan',
 	'ACP_USER_WARNINGS'				=> 'Peringatan',
 
-	'ACP_VC_SETTINGS'					=> 'Pengaturan konfirmasi visual',
+	'ACP_VC_SETTINGS'					=> 'Pengaturan anti spambot',
 	'ACP_VC_CAPTCHA_DISPLAY'			=> 'Tampilan gambar CAPTCHA',
 	'ACP_VERSION_CHECK'					=> 'Periksa update',
 	'ACP_VIEW_ADMIN_PERMISSIONS'		=> 'Lihat perijinan administrasi',
@@ -503,7 +503,7 @@ $lang = array_merge($lang, array(
 	'LOG_CONFIG_SERVER'			=> '<strong>Mengubah pengaturan server</strong>',
 	'LOG_CONFIG_SETTINGS'		=> '<strong>Mengubah pengaturan halaman</strong>',
 	'LOG_CONFIG_SIGNATURE'		=> '<strong>Mengubah pengaturan tanda tangan</strong>',
-	'LOG_CONFIG_VISUAL'			=> '<strong>Mengubah pengaturan konfirmasi visual</strong>',
+	'LOG_CONFIG_VISUAL'			=> '<strong>Mengubah pengaturan anti spambot</strong>',
 
 	'LOG_APPROVE_TOPIC'			=> '<strong>Menyetujui topik</strong><br />» %s',
 	'LOG_BUMP_TOPIC'			=> '<strong>Menggeser topik</strong><br />» %s',

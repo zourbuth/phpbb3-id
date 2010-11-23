@@ -59,6 +59,9 @@ $lang = array_merge($lang, array(
 	'FULLTEXT_MYSQL_PCRE'					=> 'Mendukung karakter UTF-8 non-latin menggunakan PCRE:',
 	'FULLTEXT_MYSQL_MBSTRING_EXPLAIN'		=> 'Jika PCRE tidak memiliki properti karakter unicode, backend pencarian akan mencoba menggunakan mesin ekspresi mbstring biasa.',
 	'FULLTEXT_MYSQL_PCRE_EXPLAIN'			=> 'Backend pencarian ini membutuhkan properti karakter unicode PCRE, hanya tersedia di 4.4, 5.1 dan versi di atasnya, jika anda ingin mencari karakter non-latin.',
+	
+	'FULLTEXT_MYSQL_MIN_SEARCH_CHARS_EXPLAIN'   => 'Kata-kata dengan jumlah paling tidak sebanyak karakter ini akan diindeks untuk pencarian. Anda ataupun host anda hanya bisa mengubah pengaturan ini dengan mengubah konfigurasi mysql.',
+	'FULLTEXT_MYSQL_MAX_SEARCH_CHARS_EXPLAIN'   => 'Kata kata dengan jumlah yang tidak lebih banyak dari karakter ini akan diindeks untuk pencarian. Anda ataupun host anda hanya bisa mengubah pengaturan ini dengan mengubah konfigurasi mysql.',
 
 	'GENERAL_SEARCH_SETTINGS'				=> 'Pengaturan pencarian general',
 	'GO_TO_SEARCH_INDEX'					=> 'Pergi ke halaman pencarian indeks',

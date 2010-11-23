@@ -62,6 +62,7 @@ $lang = array_merge($lang, array(
 	'NO_SEARCH'				=> 'Maaf, anda tidak diijinkan untuk menggunakan sistem pencarian.',
 	'NO_SEARCH_RESULTS'		=> 'Pencarian tidak ditemukan.',
 	'NO_SEARCH_TIME'		=> 'Maaf, anda tidak bisa menggunakan pencarian saat ini. Silahkan coba lagi dalam beberapa menit.',
+    'NO_SEARCH_UNREADS'     => 'Maaf, pencarian untuk post tak terbaca sudah dinonaktifkan di halaman ini.',
 	'WORD_IN_NO_POST'		=> 'Tidak ada post yang ditemukan karena kata pencarian <strong>%s</strong> tidak ditemukan di post lainnya.',
 	'WORDS_IN_NO_POST'		=> 'Tidak ada post yang ditemukan karena kata-kata pencarian <strong>%s</strong> tidak ditemukan di post lainnya.',
 

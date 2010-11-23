@@ -11,7 +11,7 @@ Kata Sandi: {PASSWORD}
 Halaman URL: {U_BOARD}
 ----------------------------
 
-Account anda belum aktif sekarang ini, administrator perlu mengakifkannya sebelum anda boleh masuk. Anda akan menerima e-mail yang lain setelah diaktifkan.
+Account anda belum aktif sekarang ini dan perlu disetujui oleh administrator sebelum anda boleh masuk. Anda akan menerima e-mail yang lain setelah disetujui.
 
 Mohon agar mengingat kata sandi anda yang telah dienkripsi di database kami dan kami tidak bisa memberikan kata sandi tersebut kepada anda. Akan tetapi, apabila anda tidak mengingat kata sandi anda, anda bisa meminta kata sandi yang baru yang akan diaktifkan kembali oleh administrator.
 

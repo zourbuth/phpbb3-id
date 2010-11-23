@@ -41,7 +41,8 @@ $lang = array_merge($lang, array(
 
 	'BAN_ALREADY_ENTERED'	=> 'Larangan telah berhasil dibuat sebelumnya. Daftar larangan tidak akan diperbarui.',
 	'BAN_SUCCESSFUL'		=> 'Larangan berhasil dimasukkan.',
-
+	
+	'CANNOT_BAN_ANONYMOUS'         	=> 'Anda tidak diijinkan melarang akun anonim. Perijinan untuk pengguna anonim bisa diatur di tab Perijinan.',
 	'CANNOT_BAN_FOUNDER'			=> 'Anda tidak diijinkan untuk melarang account pendiri.',
 	'CANNOT_BAN_YOURSELF'			=> 'Anda tidak diijinkan untuk melarang diri anda sendiri.',
 	'CANNOT_DEACTIVATE_BOT'			=> 'Anda tidak diijinkan untuk menonaktifkan accout bot. Silahkan nonaktifkan bot tersebut dari halaman bot.',

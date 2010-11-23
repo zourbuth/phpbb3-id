@@ -48,15 +48,20 @@ $lang = array_merge($lang, array(
 
 	'MARK_TOPICS_READ'		=> 'Tandai topik sudah dibaca',
 
-	'NEW_POSTS_HOT'			=> 'Post baru [ Popular ]',
-	'NEW_POSTS_LOCKED'		=> 'Post baru [ Dikunci ]',
-	'NO_NEW_POSTS_HOT'		=> 'Tidak ada post yang baru [ Popular ]',
-	'NO_NEW_POSTS_LOCKED'	=> 'Tidak ada post yang baru [ Dikunci ]',
-	'NO_READ_ACCESS'		=> 'Anda tidak memiliki ijin yang dibutuhkan untuk membaca topik di dalam forum ini.',
+	'NEW_POSTS_HOT'         => 'Post baru [ Populer ]',   // Not used anymore
+	'NEW_POSTS_LOCKED'      => 'Post baru [ Dikunci ]',   // Not used anymore
+	'NO_NEW_POSTS_HOT'      => 'Tidak ada post baru [ Populer ]',   // Not used anymore
+	'NO_NEW_POSTS_LOCKED'   => 'Tidak ada post baru [ Dikunci ]',   // Not used anymore
+	'NO_READ_ACCESS'      	=> 'Anda tidak memiliki perijinan yang dibutuhkan untuk membaca topik di dalam forum ini.',
+	'NO_UNREAD_POSTS_HOT'      => 'Tidak ada pesan tak terbaca [ Populer ]',
+	'NO_UNREAD_POSTS_LOCKED'   => 'Tidak ada pesan tak terbaca [ Dikunci ]',
 
-	'POST_FORUM_LOCKED'		=> 'Forum Dikunci',
+	'POST_FORUM_LOCKED'     => 'Forum dikunci',
 
-	'TOPICS_MARKED'			=> 'Topik untuk forum ini sekarang telah ditandai.',
+	'TOPICS_MARKED'         => 'Topik untuk forum ini telah ditandai dibaca.',
+
+	'UNREAD_POSTS_HOT'      => 'Post tak terbaca [ Populer ]',
+	'UNREAD_POSTS_LOCKED'   => 'Post tak terbaca [ Dikunci ]',
 
 	'VIEW_FORUM'			=> 'Lihat forum',
 	'VIEW_FORUM_TOPIC'		=> '1 topik',

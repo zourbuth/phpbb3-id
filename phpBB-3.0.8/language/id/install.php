@@ -128,7 +128,7 @@ $lang = array_merge($lang, array(
 	'DB_ERR_QUERY_FIRST_TABLE'	=> 'Error pada saat mengeksekusi <var>query_first</var>, %s (“%s”).',
 	'DB_ERR_SELECT'				=> 'Error pada saat menjalankan query <code>SELECT</code>.',
 	'DB_HOST'					=> 'Nama host server database atau DSN',
-	'DB_HOST_EXPLAIN'			=> 'DSN adalah kepanjangan dari Data Source Name dan hanya bertalian untuk instal ODBC.',
+	'DB_HOST_EXPLAIN'			=> 'DSN adalah kepanjangan dari Data Source Name dan hanya bertalian untuk instal ODBC. Pada PostgreSQL, gunakan localhost untuk koneksi ke server lokal via soket domain UNIX dan 127.0.0.1 untuk koneksi via TCP.',
 	'DB_NAME'					=> 'Nama database name',
 	'DB_PASSWORD'				=> 'Kata sandi database',
 	'DB_PORT'					=> 'Port server database',
@@ -147,6 +147,7 @@ $lang = array_merge($lang, array(
 	'DLL_MBSTRING'				=> 'Dukungan karakter Multi-byte',
 	'DLL_MSSQL'					=> 'MSSQL Server 2000+',
 	'DLL_MSSQL_ODBC'			=> 'MSSQL Server 2000+ via ODBC',
+	'DLL_MSSQLNATIVE'         	=> 'MSSQL Server 2005+ [ Asli ]',
 	'DLL_MYSQL'					=> 'MySQL',
 	'DLL_MYSQLI'				=> 'MySQL dengan ekstensi MySQLi',
 	'DLL_ORACLE'				=> 'Oracle',
@@ -213,7 +214,8 @@ $lang = array_merge($lang, array(
 		<li>PostgreSQL 7.3+</li>
 		<li>SQLite 2.8.2+</li>
 		<li>Firebird 2.0+</li>
-		<li>MS SQL Server 2000 atau di bawahnya (langsung melalui ODBC)</li>
+		<li>MS SQL Server 2000 atau di bawahnya (langsung ataupun via ODBC)</li>
+		<li>MS SQL Server 2005 atau ke atas (asli)</li>
 		<li>Oracle</li>
 	</ul>
 
@@ -557,6 +559,8 @@ $lang = array_merge($lang, array(
 	'UPDATING_DATA'					=> 'Memperbarui data',
 	'UPDATING_TO_LATEST_STABLE'		=> 'Pembaruan database ke versi terbaru yang stabil',
 	'UPDATED_VERSION'				=> 'Versi terbarukan',
+	'UPGRADE_INSTRUCTIONS'         	=> 'Sebuah fitur baru rilis <strong>%1$s</strong> telah tersedia. Silahkan baca <a href="%2$s" title="%2$s"><strong>pengumuman rilis</strong></a> untuk mempelajari apa-apa saja yang ditawarkan, dan cara pembaruannya.',
+
 	'UPLOAD_METHOD'					=> 'Metode upload',
 
 	'UPDATE_DB_SUCCESS'				=> 'Pembaruan database telah berhasil.',
@@ -578,22 +582,6 @@ $lang = array_merge($lang, array(
 
 // Default database schema entries...
 $lang = array_merge($lang, array(
-	'CONFIG_BOARD_EMAIL_SIG'		=> 'Terima kasih, Manajemen',
-	'CONFIG_SITE_DESC'				=> 'Teks singkat untuk menjelaskan forum anda',
-	'CONFIG_SITENAME'				=> 'domainanda.com',
-
-	'DEFAULT_INSTALL_POST'			=> 'Ini adalah post percontohan pada instalsi phpBB3 anda. Sepertinya semua berjalan lancar. Anda bisa menghapus post ini jika diingini dan melanjutkan pengaturan halaman anda. Selama proses instalasi, kategori dan forum pertama anda diberikan sekumpulan perijinan untuk pengguna yang sudah dikenal seperti administrators, bots, global moderator, tamu, pengguna terdaftar dan pengguna terdaftar COPPA. Jika anda memilih untuk menghapus kategori dan forum pertama anda, jangan lupa untuk memberikan perijinan untuk semua grup pengguna untuk semua kategori dan forum yang sudah dibuat. Disarankan agar mengganti nama kategori dan forum pertama anda dan menyalin perijinannya pada saat membuat kategori dan forum yang baru. Selamat bersenang-senang!',
-
-	'EXT_GROUP_ARCHIVES'			=> 'Arsip',
-	'EXT_GROUP_DOCUMENTS'			=> 'Dokomen-dokumen',
-	'EXT_GROUP_DOWNLOADABLE_FILES'	=> 'File Yang Dapat Didownloadable',
-	'EXT_GROUP_FLASH_FILES'			=> 'File Flash',
-	'EXT_GROUP_IMAGES'				=> 'Gambar-gambar',
-	'EXT_GROUP_PLAIN_TEXT'			=> 'Teks Biasa',
-	'EXT_GROUP_QUICKTIME_MEDIA'		=> 'Quicktime Media',
-	'EXT_GROUP_REAL_MEDIA'			=> 'Real Media',
-	'EXT_GROUP_WINDOWS_MEDIA'		=> 'Windows Media',
-
 	'FORUMS_FIRST_CATEGORY'			=> 'Kategori pertama anda',
 	'FORUMS_TEST_FORUM_DESC'		=> 'Penjelasan tentang forum pertama anda.',
 	'FORUMS_TEST_FORUM_TITLE'		=> 'Forum pertama anda',

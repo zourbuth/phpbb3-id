@@ -97,6 +97,16 @@ $lang = array_merge($lang, array(
 	'EXTENSION_GROUP_DELETED'		=> 'Ekstensi grup berhasil dihapus.',
 	'EXTENSION_GROUP_EXIST'			=> 'Ekstensi grup %s sudah ada.',
 
+	'EXT_GROUP_ARCHIVES'         => 'Arsip',
+	'EXT_GROUP_DOCUMENTS'         => 'Dokumen',
+	'EXT_GROUP_DOWNLOADABLE_FILES'   => 'File-File Yang Bisa Diunduh',
+	'EXT_GROUP_FLASH_FILES'         => 'File Flash',
+	'EXT_GROUP_IMAGES'            => 'Gambar',
+	'EXT_GROUP_PLAIN_TEXT'         => 'Teks Biasa',
+	'EXT_GROUP_QUICKTIME_MEDIA'      => 'Media Quicktime',
+	'EXT_GROUP_REAL_MEDIA'         => 'Real Media',
+	'EXT_GROUP_WINDOWS_MEDIA'      => 'Windows Media',
+	   
 	'GO_TO_EXTENSIONS'		=> 'Pergi ke halaman manajemen ekstensi',
 	'GROUP_NAME'			=> 'Nama grup',
 
