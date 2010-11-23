@@ -582,6 +582,22 @@ $lang = array_merge($lang, array(
 
 // Default database schema entries...
 $lang = array_merge($lang, array(
+	'CONFIG_BOARD_EMAIL_SIG'		=> 'Terima kasih, Manajemen',
+	'CONFIG_SITE_DESC'				=> 'Teks singkat untuk menjelaskan forum anda',
+	'CONFIG_SITENAME'				=> 'domainanda.com',
+
+	'DEFAULT_INSTALL_POST'			=> 'Ini adalah post percontohan pada instalsi phpBB3 anda. Sepertinya semua berjalan lancar. Anda bisa menghapus post ini jika diingini dan melanjutkan pengaturan halaman anda. Selama proses instalasi, kategori dan forum pertama anda diberikan sekumpulan perijinan untuk pengguna yang sudah dikenal seperti administrators, bots, global moderator, tamu, pengguna terdaftar dan pengguna terdaftar COPPA. Jika anda memilih untuk menghapus kategori dan forum pertama anda, jangan lupa untuk memberikan perijinan untuk semua grup pengguna untuk semua kategori dan forum yang sudah dibuat. Disarankan agar mengganti nama kategori dan forum pertama anda dan menyalin perijinannya pada saat membuat kategori dan forum yang baru. Selamat bersenang-senang!',
+
+	'EXT_GROUP_ARCHIVES'			=> 'Arsip',
+	'EXT_GROUP_DOCUMENTS'			=> 'Dokomen-dokumen',
+	'EXT_GROUP_DOWNLOADABLE_FILES'	=> 'File Yang Dapat Didownloadable',
+	'EXT_GROUP_FLASH_FILES'			=> 'File Flash',
+	'EXT_GROUP_IMAGES'				=> 'Gambar-gambar',
+	'EXT_GROUP_PLAIN_TEXT'			=> 'Teks Biasa',
+	'EXT_GROUP_QUICKTIME_MEDIA'		=> 'Quicktime Media',
+	'EXT_GROUP_REAL_MEDIA'			=> 'Real Media',
+	'EXT_GROUP_WINDOWS_MEDIA'		=> 'Windows Media',
+
 	'FORUMS_FIRST_CATEGORY'			=> 'Kategori pertama anda',
 	'FORUMS_TEST_FORUM_DESC'		=> 'Penjelasan tentang forum pertama anda.',
 	'FORUMS_TEST_FORUM_TITLE'		=> 'Forum pertama anda',
