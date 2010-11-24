@@ -370,7 +370,7 @@ $lang = array_merge($lang, array(
 
 // Updater
 $lang = array_merge($lang, array(
-	'ALL_FILES_UP_TO_DATE'		=> 'Semua file sudah terbarukan dengan versi phpBB yang terbaru. Sekarang anda harus <a href="../ucp.php?mode=login">masuk ke halaman anda</a> dan periksa apakah semuanya berjalan lancar. Jangan lupa untuk menghapus, menamai atau memindahkan direktori install!',
+	'ALL_FILES_UP_TO_DATE'		=> 'Semua file anda sudah yang terbarukan dengan versi phpBB terbaru. Sekarang anda harus <a href="../ucp.php?mode=login">masuk ke halaman</a> dan periksa apakah semuanya berjalan lancar. Jangan lupa untuk menghapus, menamai atau memindahkan direktori install!',
 	'ARCHIVE_FILE'				=> 'File sumber dalam arsip',
 
 	'BACK'				=> 'Kembali',
@@ -528,7 +528,7 @@ $lang = array_merge($lang, array(
 
 		<br />
 
-		<h1>Bagaimana memperbarui instalasi anda dengan Automatic Update Package</h1>
+		<h1>Bagaimana membarui instalasi anda dengan Paket Pembaruan Otomatis</h1>
 
 		<p>Cara yang disarankan untuk memperbarui instalasi anda yang dijelaskan di sini hanya berguna untuk automatic update package. Anda juga bisa memperbarui instalasi anda dengan metode yang diberikan pada dokument INSTALL.html document. Tahap-tahap untuk memperbarui phpBB3 secara otomatis adalah:</p>
 
@@ -571,7 +571,7 @@ $lang = array_merge($lang, array(
 	'VERSION_CHECK_EXPLAIN'			=> 'Periksa untuk melihat apakah versi phpBB yang sedang anda merupakan versi yang terbaru.',
 	'VERSION_NOT_UP_TO_DATE'		=> 'Versi instalasi anda belum terbarukan. Silahkan melanjutkan proses update.',
 	'VERSION_NOT_UP_TO_DATE_ACP'	=> 'Versi instalasi anda belum terbarukan.<br />Di bawah ini akan anda temukan sebuah link mengenai pemberitahuan telah keluarnya versi yang baru beserta dengan instruksi tentang cara melakukan update.',
-	'VERSION_NOT_UP_TO_DATE_TITLE'	=> 'Instalasi phpBB anda sudah terbarukan.',
+	'VERSION_NOT_UP_TO_DATE_TITLE'	=> 'Instalasi phpBB belum terbarukan.',
 	'VERSION_UP_TO_DATE'			=> 'Versi instalasi anda sudah terbarukan, tidak ada pembaruan yang tersedia untuk versi phpBB anda tersebut. Anda boleh lanjut melaksanakan pemeriksaan validasi file.',
 	'VERSION_UP_TO_DATE_ACP'		=> 'Versi instalasi anda sudah terbarukan, tidak ada pembaruan yang tersedia untuk versi phpBB anda tersebut. Anda tidak perlu memperbarui instalasi anda.',
 	'VIEWING_FILE_CONTENTS'			=> 'Melihat isi file',

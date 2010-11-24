@@ -150,7 +150,7 @@ $lang = array_merge($lang, array(
 	'ACP_RESTORE'				=> 'Restore',
 
 	'ACP_FEED'					=> 'Menejemen Pengumpan',
-	'ACP_FEED_SETTINGS'			=> 'Pengaturan Pengumpan',
+	'ACP_FEED_SETTINGS'			=> 'Pengaturan pengumpan',
 
 	'ACP_SEARCH'				=> 'Konfigurasi pencarian',
 	'ACP_SEARCH_INDEX'			=> 'Indeks pencarian',
@@ -316,9 +316,9 @@ $lang = array_merge($lang, array(
 
 // Index page
 $lang = array_merge($lang, array(
-	'ADMIN_INTRO'				=> 'Terima kasih telah menggunakan phpBB sebagai board solution. Halaman ini akan memberikan anda gambaran singkat mengenai berbagai statistik dari halaman. Link yang berada di sebalah kiri dari halaman ini memberikan kontrol untuk setiap aspek halaman. Setiap halaman memiliki instruksi masing-masing untuk cara penggunaannya.',
+	'ADMIN_INTRO'				=> 'Terima kasih telah menggunakan phpBB sebagai sebuah solusi papan. Halaman ini akan memberikan anda gambaran singkat mengenai berbagai statistik dari halaman. Tautan yang berada di sebelah kiri dari halaman ini memberikan kontrol untuk setiap aspek halaman. Setiap halaman memiliki instruksinya masing-masing mengenai cara penggunaan.',
 	'ADMIN_LOG'					=> 'Log administrator',
-	'ADMIN_LOG_INDEX_EXPLAIN'	=> 'Halaman ini memberikan gambaran singkat untuk lima tindakan terakhir yang dilakukan oleh administrator halaman. Salinan lengkap dari log tersebut dapat dilihat pada item menu atau dari link berikut ini.',
+	'ADMIN_LOG_INDEX_EXPLAIN'	=> 'Berikut ini adalah penjelasan untuk lima tindakan terakhir yang dilakukan oleh administrator halaman. Salinan lengkap dari log tersebut dapat dilihat pada item menu atau dari tautan berikut ini.',
 	'AVATAR_DIR_SIZE'			=> 'Ukuran direktori avatar',
 
 	'BOARD_STARTED'		=> 'Dimulai pada',
@@ -343,13 +343,13 @@ $lang = array_merge($lang, array(
 
 	'POSTS_PER_DAY'		=> 'Post per hari',
 
-	'PURGE_CACHE'			=> 'Bersihkan cache',
-	'PURGE_CACHE_CONFIRM'	=> 'Apakah anda yakin ingin membersihkan cache?',
-	'PURGE_CACHE_EXPLAIN'	=> 'Bersihkan semua cache yang berhubungan, juga termasuk semua file template ataupun query.',
+	'PURGE_CACHE'			=> 'Bersihkan tembolok',
+	'PURGE_CACHE_CONFIRM'	=> 'Apakah anda yakin ingin membersihkan tembolok?',
+	'PURGE_CACHE_EXPLAIN'	=> 'Bersihkan semua tembolok yang berhubungan, juga termasuk semua file template ataupun query.',
 
 	'PURGE_SESSIONS'			=> 'Bersihkan semua sesi',
 	'PURGE_SESSIONS_CONFIRM'	=> 'Apakah anda yakin ingin membersihkan semua sesi? Tindakan ini akan mengeluarkan semua pengguna yang sudah masuk.',
-	'PURGE_SESSIONS_EXPLAIN'	=> 'Bersihkan semua sesi. Tindakan ini akan mengeluarkan semua pengguna yang sudah masuk denga memotong semua tabel.',
+	'PURGE_SESSIONS_EXPLAIN'	=> 'Bersihkan semua sesi. Tindakan ini akan mengeluarkan semua pengguna yang sudah masuk dengan memotong semua tabel.',
 
 	'RESET_DATE'					=> 'Reset tanggal awal halaman',
 	'RESET_DATE_CONFIRM'			=> 'Apakah anda yakin ingin mereset tanggal awal halaman?',
@@ -372,7 +372,7 @@ $lang = array_merge($lang, array(
 	'TOPICS_PER_DAY'	=> 'Topik per hari',
 
 	'UPLOAD_DIR_SIZE'	=> 'Ukuran lampiran yang dipost',
-	'USERS_PER_DAY'		=> 'Pengguna perhari',
+	'USERS_PER_DAY'		=> 'Pengguna per hari',
 
 	'VALUE'						=> 'Nilai',
 	'VERSIONCHECK_FAIL'			=> 'Gagal memperoleh informasi versi terbaru.',
@@ -395,7 +395,7 @@ $lang = array_merge($lang, array(
 	'INACTIVE_REASON_UNKNOWN'		=> 'Tidak diketahui',
 	'INACTIVE_USERS'				=> 'Pengguna-pengguna nonaktif',
 	'INACTIVE_USERS_EXPLAIN'		=> 'Berikut ini adalah daftar pengguna-pengguna yang telah mendaftar dengan account yang belum aktif. Anda dapat mengaktifkan, menghapus ataupun mengingatkan (dengan mengrimkan e-mail) semua pengguna ini jika anda inginkan.',
-	'INACTIVE_USERS_EXPLAIN_INDEX'	=> 'Berikut ini adalah daftar dari 10 pengguna dengan account yang belum aktif. Daftar lengkap tersedia dari menu yang sesuai atau dengan link berikut ini dimana anda dapat mengaktifkan, menghapus ataupun mengingatkan (dengan mengrimkan e-mail) semua pengguna ini jika anda inginkan.',
+	'INACTIVE_USERS_EXPLAIN_INDEX'	=> 'Berikut ini adalah daftar dari 10 pengguna dengan akun yang belum aktif. Daftar lengkap tersedia dari menu yang sesuai atau dengan link berikut ini dimana anda dapat mengaktifkan, menghapus ataupun mengingatkan (dengan mengrimkan e-mail) semua pengguna ini jika anda inginkan.',
 
 	'NO_INACTIVE_USERS'	=> 'Tidak ada pengguna yang nonaktif',
 
