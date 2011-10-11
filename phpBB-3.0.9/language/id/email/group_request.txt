@@ -1,0 +1,10 @@
+Subject: Permintaan untuk bergabung dengan grup anda telah dibuat
+
+Yang terhormat, {USERNAME},
+
+Pengguna "{REQUEST_USERNAME}" telah meminta untuk bergabung dengan grup "{GROUP_NAME}" yang anda moderasi di "{SITENAME}".
+Untuk menyetujui atau menolak permintaan ini silahkan kunjungi link berikut ini:
+
+{U_PENDING}
+
+{EMAIL_SIG}

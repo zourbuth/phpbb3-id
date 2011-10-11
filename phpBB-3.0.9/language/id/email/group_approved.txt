@@ -1,0 +1,10 @@
+Subject: Permintaan anda telah disetujui
+
+Selamat,
+
+Permintaan anda untuk bergabung dengan grup "{GROUP_NAME}" di "{SITENAME}" telah disetujui.
+Untuk melihat keanggotaan grup anda silahkan klik link berikut ini:
+
+{U_GROUP}
+
+{EMAIL_SIG}
