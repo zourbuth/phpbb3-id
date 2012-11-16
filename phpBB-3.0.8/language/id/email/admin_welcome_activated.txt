@@ -1,7 +1,0 @@
-Subject: Account Aktif
-
-Hallo {USERNAME},
-
-Account anda pada situs "{SITENAME}" telah diaktifkan sekarang, anda boleh masuk dengan menggunakan nama pengguna dan kata sandi yang anda terima pada e-mail sebelumnya.
-
-{EMAIL_SIG}
