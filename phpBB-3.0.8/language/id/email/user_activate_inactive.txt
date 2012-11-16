@@ -1,7 +1,0 @@
-Subject: Account anda telah dinonaktifkan
-
-Hallo {USERNAME},
-
-Account anda di "{SITENAME}" telah dinonaktifkan, kemungkinan dikarenakan oleh perubahan yang dibuat pada profil anda. Administrator harus mengaktifkannya sebelum anda dapat masuk. Anda akan menerima pemberitahuan yang lain setelah account anda diaktifkan.
-
-{EMAIL_SIG}
