@@ -1,0 +1,17 @@
+Subject: Pengaktifan kata sandi yang baru
+
+Hallo {USERNAME}
+
+Anda menerima pemberitahuan ini karena anda telah (atau seseorang yang menganggap dirinya adalah anda) telah meminta sebuah kata sandi yang baru untuk account anda di "{SITENAME}". Jika anda tidak meminta pemberitahuan ini, mohon diabaikan saja, dan jika anda tetap menerima pemberitahuan ini silahkan menghubungi administrator.
+
+Untuk menggunakan kata sandi yang baru anda harus mengaktifkannya. Untuk mengaktifkan silahkan klik link yang diberikan di bawah ini.
+
+{U_ACTIVATE}
+
+Jika berhasil, maka anda akan dapat masuk menggunakan kata sandi berikut ini:
+
+Kata Sandi: {PASSWORD}
+
+Tentunya anda dapat mengubah kata sandi tersebut melalui halaman profil. Jika anda mengalami kesulitan, silahkan menghubungi administrator.
+
+{EMAIL_SIG}
