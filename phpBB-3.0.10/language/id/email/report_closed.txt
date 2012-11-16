@@ -1,0 +1,8 @@
+Subject: Laporan ditutup - "{POST_SUBJECT}"
+
+Hallo {USERNAME},
+
+Anda menerima pemberitahuan ini karena laporan yang anda file-kan di post "{POST_SUBJECT}" pada topik "{TOPIC_TITLE}" di "{SITENAME}" telah ditangani oleh moderator atau administrator. Setelah itu laporan ditutup. Jika anda memiliki pertanyaan lebih lanjut silahkan hubungi {CLOSER_NAME} dengan pesan pribadi.
+
+
+{EMAIL_SIG}

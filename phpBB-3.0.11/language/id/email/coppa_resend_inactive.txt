@@ -1,0 +1,42 @@
+Subject: Selamat Datang Di "{SITENAME}"
+
+{WELCOME_MSG}
+
+Sesuai dengan COPPA account anda diaktifkan sekarang ini.
+
+Silahkan cetak pesan ini dan untuk ditandatangani oleh orang tua atau wali anda. Kemudian silahkan fax ke:
+
+{FAX_INFO}
+
+Atau kirimkan e-mail ke:
+
+{MAIL_INFO}
+
+------------------------------ POTONG DI SINI ------------------------------
+Ijin untuk berpartisipasi pada "{SITENAME}" - {U_BOARD}
+
+Nama Pengguna: {USERNAME}
+E-mail: {EMAIL_ADDRESS}
+
+SAYA TELAH MENINJAU INFORMASI YANG DIBERIKAN OLEH ANAK SAYA DAN DENGAN INI MEMBERIKAN IJIN KE "{SITENAME}" UNTUK MENYIMPAN INFORMASI INI. 
+SAYA MENGETAHUI BAHWA INFORMASI INI DAPAT DIUBAH KAPAN SAJA DENGAN MEMASUKKAN KATA SANDI. 
+SAYA MENGETAHUI BAHWA SAYA DAPAT MEMINTA AGAR INFORMASI INI DISINGKIRKAN DARI "{SITENAME}" SETIAP WAKTU.
+
+
+Orang tua atau wali 
+(tuliskan nama anda di sini): _____________________
+
+(tanda tangan di sini): __________________ 
+
+Tanggal: _______________
+
+------------------------------ POTONG DI SINI ------------------------------
+
+
+Segera sesudah administrator menerima formulir di atas melalui fax atau e-mail biasa, account anda akan diaktifkan.
+
+Mohon agar mengingat kata sandi anda yang telah dienkripsi di database kami dan kami tidak dapat memberikan kata sandi itu kembali untuk anda. Akan tetapi, jika anda lupa kata sandi anda, anda dapat meminta password yang baru yang akan diaktifkan kembali sama seperti halnya account ini.
+
+Terima kasih atas pendaftarannya.
+
+{EMAIL_SIG}

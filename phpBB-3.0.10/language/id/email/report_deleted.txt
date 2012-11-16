@@ -1,0 +1,8 @@
+Subject: Laporan dihapus - "{POST_SUBJECT}"
+
+Hallo {USERNAME},
+
+Anda menerima pemberitahuan ini karena laporan yang anda file-kan di post "{POST_SUBJECT}" pada topik "{TOPIC_TITLE}" di "{SITENAME}" telah dihapus oleh moderator atau administrator.
+
+
+{EMAIL_SIG}

@@ -1,0 +1,19 @@
+Subject: Pemberitahuan Post Forum - "{FORUM_NAME}"
+
+Hallo {USERNAME},
+
+Anda menerima pemberitahuan ini karena anda sedang memperhatikan forum , "{FORUM_NAME}" di "{SITENAME}". Forum ini telah menerima sebuah balasan dari topik "{TOPIC_TITLE}" sejak kunjungan terakhir anda. Anda dapat menggunakan link berikut ini untuk melihat balasan terakhir yang belum terbaca, tidak ada pemberitahuan lagi yang akan dikirim sebelum anda mengunjungi topik tersebut.
+
+{U_NEWEST_POST}
+
+Jika anda ingin melihat topik tersebut, silahkan klik di link berikut ini:
+{U_TOPIC}
+
+Jika anda ingin melihat forum tersebut, silahkan klik di link berikut ini:
+{U_FORUM}
+
+Jika anda tidak lagi menginginkan untuk memperhatikan forum ini, anda dapat mengklik link "Berhenti berlangganan" yang terdapat dibawah forum, atau dengan mengklik link berikut ini:
+
+{U_STOP_WATCHING_FORUM}
+
+{EMAIL_SIG}
